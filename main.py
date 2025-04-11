@@ -7,8 +7,6 @@ import model
 
 DGRAPH_URI = os.getenv('DGRAPH_URI', 'localhost:9080')
 
-
-
 def print_menu():
     mm_options = {
         1: "Create data",
@@ -21,24 +19,23 @@ def print_menu():
         print(key, '--', mm_options[key])
 
 
+# Conexión directa con el servidor Dgraph usando gRPC.
 def create_client_stub():
     return pydgraph.DgraphClientStub(DGRAPH_URI)
 
-
+# Crea el cliente principal de Dgraph: realizar operaciones de alto nivel como queries, mutaciones y transacciones.
 def create_client(client_stub):
     return pydgraph.DgraphClient(client_stub)
-
 
 def close_client_stub(client_stub):
     client_stub.close()
 
-
 def main():
-    # Init Client Stub and Dgraph Client
+    # Inicializar Client Stub y Dgraph Client
     client_stub = create_client_stub()
     client = create_client(client_stub)
 
-    # Create schema
+    # Crear schema
     model.set_schema(client)
 
     while(True):
@@ -58,7 +55,6 @@ def main():
             model.drop_all(client)
             close_client_stub(client_stub)
             exit(0)
-
 
 if __name__ == '__main__':
     try:

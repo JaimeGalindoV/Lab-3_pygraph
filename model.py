@@ -4,8 +4,6 @@ import json
 
 import pydgraph
 
-
-
 def set_schema(client):
     schema = """
     type Person {
@@ -17,6 +15,10 @@ def set_schema(client):
         dob
     }
 
+    type School {
+        name
+    }
+
     name: string @index(exact) .
     friend: [uid] @reverse .
     age: int .
@@ -25,7 +27,6 @@ def set_schema(client):
     dob: datetime .
     """
     return client.alter(pydgraph.Operation(schema=schema))
-
 
 def create_data(client):
     # Create a new transaction.
@@ -52,6 +53,7 @@ def create_data(client):
             ],
             'school': [
                 {
+                    'dgraph.type': 'School',
                     'name': 'ITESO',
                 }
             ]
