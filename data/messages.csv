@@ -1,0 +1,72 @@
+uid,content,reactions,sendAt,RECEIVE,BELONGS_TO
+_:message0,What do you think of the new design?,"['😂', '😮']",2025-04-25T03:47:17.224570,_:user11,""
+_:message1,"Great job on the project, team!",['👍'],2025-04-23T03:47:17.224593,"",_:group0
+_:message2,Feeling productive today!,"['👍', '❤️']",2025-04-24T03:47:17.224604,"",_:group0
+_:message3,What do you think of the new design?,"['👍', '❤️']",2025-04-20T03:47:17.224613,_:user6,""
+_:message4,Can someone help me fix this bug?,['❤️'],2025-04-23T03:47:17.224621,"",_:group1
+_:message5,"I'll be out this afternoon, ping me if needed.","['👍', '❤️']",2025-04-16T03:47:17.224629,"",_:group0
+_:message6,"Hey, are we still on for the meeting tomorrow?","['😂', '😮']",2025-04-25T03:47:17.224642,"",_:group0
+_:message7,Feeling productive today!,['😮'],2025-04-26T03:47:17.224651,_:user0,""
+_:message8,Feeling productive today!,"['👍', '❤️']",2025-04-16T03:47:17.224659,"",_:group1
+_:message9,Feeling productive today!,"['👍', '❤️']",2025-04-18T03:47:17.224667,"",_:group1
+_:message10,Anyone up for a quick call?,['👍'],2025-04-18T03:47:17.224675,_:user8,""
+_:message11,"I'll be out this afternoon, ping me if needed.","['😂', '😮']",2025-04-23T03:47:17.224684,_:user8,""
+_:message12,Can someone help me fix this bug?,"['😂', '😮']",2025-04-25T03:47:17.224695,_:user9,""
+_:message13,Feeling productive today!,"['😂', '😮']",2025-04-16T03:47:17.224705,_:user8,""
+_:message14,What do you think of the new design?,[],2025-04-22T03:47:17.224719,"",_:group0
+_:message15,"Great job on the project, team!","['👍', '❤️']",2025-04-22T03:47:17.224728,"",_:group1
+_:message16,"Here's the latest report, check it out.",['😮'],2025-04-24T03:47:17.224736,"",_:group0
+_:message17,"I'll be out this afternoon, ping me if needed.",['👍'],2025-04-23T03:47:17.224757,"",_:group1
+_:message18,Don't forget the team dinner tonight.,"['😂', '😮']",2025-04-16T03:47:17.224764,_:user7,""
+_:message19,"Hey, are we still on for the meeting tomorrow?",[],2025-04-18T03:47:17.224772,_:user8,""
+_:message20,Can someone help me fix this bug?,['❤️'],2025-04-24T03:47:17.224781,"",_:group1
+_:message21,"Hey, are we still on for the meeting tomorrow?","['😂', '😮']",2025-04-26T03:47:17.224787,_:user5,""
+_:message22,I just finished the task!,['❤️'],2025-04-19T03:47:17.224795,_:user1,""
+_:message23,"I'll be out this afternoon, ping me if needed.",['😮'],2025-04-24T03:47:17.224801,_:user14,""
+_:message24,Anyone up for a quick call?,"['👍', '❤️']",2025-04-20T03:47:17.224808,_:user4,""
+_:message25,Anyone up for a quick call?,['❤️'],2025-04-20T03:47:17.224815,_:user14,""
+_:message26,"Great job on the project, team!",['👍'],2025-04-21T03:47:17.224822,_:user0,""
+_:message27,Don't forget the team dinner tonight.,['👍'],2025-04-19T03:47:17.224829,_:user0,""
+_:message28,Feeling productive today!,[],2025-04-17T03:47:17.224836,"",_:group0
+_:message29,"Hey, are we still on for the meeting tomorrow?","['👍', '❤️']",2025-04-19T03:47:17.224843,_:user7,""
+_:message30,Anyone up for a quick call?,"['👍', '❤️']",2025-04-22T03:47:17.224850,_:user0,""
+_:message31,I just finished the task!,['❤️'],2025-04-26T03:47:17.224863,_:user5,""
+_:message32,Can someone help me fix this bug?,['😮'],2025-04-17T03:47:17.224870,"",_:group0
+_:message33,"Hey, are we still on for the meeting tomorrow?","['👍', '❤️']",2025-04-19T03:47:17.224878,_:user0,""
+_:message34,"Hey, are we still on for the meeting tomorrow?","['👍', '❤️']",2025-04-23T03:47:17.224885,_:user0,""
+_:message35,"Here's the latest report, check it out.","['👍', '❤️']",2025-04-17T03:47:17.224892,"",_:group0
+_:message36,What do you think of the new design?,[],2025-04-21T03:47:17.224903,_:user8,""
+_:message37,Don't forget the team dinner tonight.,"['👍', '❤️']",2025-04-23T03:47:17.224910,"",_:group0
+_:message38,What do you think of the new design?,['👍'],2025-04-23T03:47:17.224917,"",_:group1
+_:message39,"I'll be out this afternoon, ping me if needed.",['❤️'],2025-04-18T03:47:17.224925,_:user4,""
+_:message40,Can someone help me fix this bug?,"['👍', '❤️']",2025-04-17T03:47:17.224931,_:user12,""
+_:message41,"Great job on the project, team!","['😂', '😮']",2025-04-18T03:47:17.224938,"",_:group0
+_:message42,What do you think of the new design?,['❤️'],2025-04-24T03:47:17.224945,"",_:group1
+_:message43,I just finished the task!,"['😂', '😮']",2025-04-17T03:47:17.224952,_:user4,""
+_:message44,"Great job on the project, team!",[],2025-04-19T03:47:17.224960,"",_:group1
+_:message45,Can someone help me fix this bug?,['👍'],2025-04-23T03:47:17.224966,"",_:group0
+_:message46,"Great job on the project, team!",['😮'],2025-04-16T03:47:17.224973,"",_:group1
+_:message47,We need to review the marketing campaign draft,"['👍']",2025-04-27T09:15:22.000000,"",_:group2
+_:message48,New QA test cases have been uploaded,"['❤️']",2025-04-27T10:30:45.000000,"",_:group3
+_:message49,Product roadmap updated for Q3,"['😮', '👍']",2025-04-27T11:45:10.000000,"",_:group4
+_:message50,Frontend meeting moved to 3pm,"['👍']",2025-04-27T12:00:33.000000,"",_:group5
+_:message51,Data pipeline optimization complete,"['❤️', '👍']",2025-04-27T13:20:18.000000,"",_:group6
+_:message52,HR policies updated - please review,"['😮']",2025-04-27T14:35:42.000000,"",_:group7
+_:message53,Server maintenance scheduled for tonight,"['👍']",2025-04-27T15:50:27.000000,"",_:group8
+_:message54,Leadership retreat dates confirmed,"['❤️', '😮']",2025-04-27T16:05:59.000000,"",_:group9
+_:message55,Marketing budget approved!,"['👍', '❤️']",2025-04-27T09:30:00.000000,"",_:group2
+_:message56,Regression testing starts tomorrow,"['😮']",2025-04-27T10:45:00.000000,"",_:group3
+_:message57,New feature prioritization discussion,"['👍']",2025-04-27T11:15:00.000000,"",_:group4
+_:message58,UI component library updates,"['❤️']",2025-04-27T12:30:00.000000,"",_:group5
+_:message59,Data model changes for analytics,"['👍', '😮']",2025-04-27T13:45:00.000000,"",_:group6
+_:message60,Performance reviews timeline shared,"['❤️']",2025-04-27T14:00:00.000000,"",_:group7
+_:message61,CI/CD pipeline improvements,"['👍']",2025-04-27T15:15:00.000000,"",_:group8
+_:message62,Company strategy meeting notes,"['😮', '❤️']",2025-04-27T16:30:00.000000,"",_:group9
+_:message63,Social media campaign metrics,"['👍']",2025-04-27T09:45:00.000000,"",_:group2
+_:message64,Automation test coverage report,"['❤️']",2025-04-27T10:00:00.000000,"",_:group3
+_:message65,Customer feedback analysis,"['👍', '😮']",2025-04-27T11:30:00.000000,"",_:group4
+_:message66,Accessibility audit results,"['❤️']",2025-04-27T12:45:00.000000,"",_:group5
+_:message67,Machine learning model updates,"['👍']",2025-04-27T13:00:00.000000,"",_:group6
+_:message68,New hire onboarding schedule,"['😮']",2025-04-27T14:15:00.000000,"",_:group7
+_:message69,Cloud infrastructure costs report,"['❤️', '👍']",2025-04-27T15:30:00.000000,"",_:group8
+_:message70,Quarterly financial results,"['😮']",2025-04-27T16:45:00.000000,"",_:group9

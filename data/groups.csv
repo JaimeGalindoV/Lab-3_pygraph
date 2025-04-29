@@ -1,0 +1,11 @@
+uid,name,description,HAS
+_:group0,Dev Team,All backend developers,"['_:user0', '_:user1', '_:user2', '_:user3', '_:user4', '_:user5', '_:user6']"
+_:group1,Design Squad,UI/UX enthusiasts,"['_:user7', '_:user8', '_:user9', '_:user10', '_:user11', '_:user12', '_:user13', '_:user14']"
+_:group2,Marketing,Digital marketing specialists,"['_:user0', '_:user4', '_:user7', '_:user10', '_:user13']"
+_:group3,QA Team,Quality assurance testers,"['_:user1', '_:user3', '_:user5', '_:user8', '_:user12', '_:user14']"
+_:group4,Product Mgmt,Product managers,"['_:user2', '_:user6', '_:user9', '_:user11', '_:user13']"
+_:group5,Frontend,Frontend developers,"['_:user0', '_:user2', '_:user7', '_:user9', '_:user12', '_:user14']"
+_:group6,Data Science,Data analysis team,"['_:user1', '_:user4', '_:user6', '_:user10', '_:user13']"
+_:group7,HR,Human resources department,"['_:user3', '_:user5', '_:user8', '_:user11', '_:user14']"
+_:group8,DevOps,Infrastructure specialists,"['_:user0', '_:user2', '_:user5', '_:user10', '_:user12']"
+_:group9,Leadership,Company executives,"['_:user4', '_:user6', '_:user9', '_:user11', '_:user13', '_:user14']"

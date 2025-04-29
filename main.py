@@ -10,10 +10,13 @@ DGRAPH_URI = os.getenv('DGRAPH_URI', 'localhost:9080')
 def print_menu():
     mm_options = {
         1: "Create data",
-        2: "Search person",
-        3: "Delete person",
-        4: "Drop All",
-        5: "Exit",
+        2: "Search groups by user name",
+        3: "Search first n messages from number to number",
+        4: "Range of status in date order",
+        5: "Number of users and their information",
+        6: "Delete status older than X date",
+        7: "Drop All",
+        8: "Exit",
     }
     for key in mm_options.keys():
         print(key, '--', mm_options[key])
@@ -45,13 +48,24 @@ def main():
             model.create_data(client)
         if option == 2:
             person = input("Name: ")
-            model.search_person(client, person)
+            model.groups_by_user(client, person)
         if option == 3:
-            person = input("Name: ")
-            model.delete_person(client, person)
+            n = input("limit messages: ")
+            fromNumber = input("from number: ")
+            toNumber = input("to number: ")
+            model.messages_from_number_to_number(client, n, fromNumber, toNumber)
         if option == 4:
-            model.drop_all(client)
+            first = input("Insert amount of status to show: ")
+            offset = input("Insert amount of status to offset: ")
+            model.status_in_order_in_range(client, first, offset)
         if option == 5:
+            model.users_and_amount(client)
+        if option == 6:
+            date = input("inserta la fecha, los estados anteriores a ella serán eliminados: ")
+            model.delete_status(client, date)
+        if option == 7:
+            model.drop_all(client)
+        if option == 8:
             model.drop_all(client)
             close_client_stub(client_stub)
             exit(0)

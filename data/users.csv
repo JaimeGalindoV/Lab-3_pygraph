@@ -1,0 +1,16 @@
+uid,name,description,phone,location,SEND,POST
+_:user0,Pedro Torres,Coffee lover and night owl.,2993992618,"[-103.325789, 20.667743]","['_:message0', '_:message1', '_:message2']","['_:status0', '_:status1']"
+_:user1,María González,Always exploring new tech.,2935569032,"[-103.275696, 20.744791]","['_:message3', '_:message4', '_:message5']","['_:status2', '_:status3']"
+_:user2,Luis Martínez,Cycling on weekends.,2974857295,"[-103.213593, 20.743749]","['_:message6', '_:message7', '_:message8', '_:message9']",['_:status4']
+_:user3,Ana Sánchez,Bookworm and cat mom.,2948414289,"[-103.297825, 20.749677]","['_:message10', '_:message11', '_:message12', '_:message13']","['_:status5', '_:status6']"
+_:user4,Carlos Ramírez,Loves street photography.,2948220857,"[-103.269694, 20.790811]","['_:message14', '_:message15']",['_:status7']
+_:user5,Laura Jiménez,Gamer and code ninja.,2950424477,"[-103.380633, 20.630665]","['_:message16', '_:message17', '_:message18']",['_:status8']
+_:user6,Jorge Herrera,Cooking enthusiast.,2988439740,"[-103.338238, 20.724997]","['_:message19', '_:message20', '_:message21']","['_:status9', '_:status10']"
+_:user7,Sofía López,Nature lover and runner.,2926739008,"[-103.31645, 20.707766]","['_:message22', '_:message23']","['_:status11', '_:status12']"
+_:user8,Miguel Díaz,Remote work advocate.,2920497163,"[-103.226391, 20.764178]","['_:message24', '_:message25', '_:message26']",['_:status13']
+_:user9,Isabel Castillo,Minimalist by heart.,2952877753,"[-103.387916, 20.706221]","['_:message27', '_:message28', '_:message29']","['_:status14', '_:status15']"
+_:user10,Andrés Núñez,Dreaming in Python.,2904286952,"[-103.301619, 20.701518]","['_:message30', '_:message31', '_:message32']","['_:status16', '_:status17']"
+_:user11,Patricia Romero,Fan of open source.,2983869923,"[-103.230338, 20.681803]","['_:message33', '_:message34', '_:message35']","['_:status18', '_:status19']"
+_:user12,Raúl Vega,Learning one line at a time.,2923247790,"[-103.296414, 20.656505]","['_:message36', '_:message37', '_:message38']",['_:status20']
+_:user13,Daniela Paredes,Designing better systems.,2947016283,"[-103.323307, 20.662775]","['_:message39', '_:message40', '_:message41', '_:message42']","['_:status21', '_:status22']"
+_:user14,Héctor Salas,Traveling with a backpack.,2944906017,"[-103.322872, 20.688993]","['_:message43', '_:message44', '_:message45', '_:message46']","['_:status23', '_:status24']"
